@@ -1,0 +1,16 @@
+{
+    "c2": {
+        "host": "0.0.0.0",
+        "port": 999
+    },
+
+    "login": {
+        "max_tries": 5
+    },
+
+
+    "captcha": {
+        "enabled": false,
+        "type": 2
+    }
+}

